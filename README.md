@@ -36,8 +36,8 @@
 **Modes:** Single Player & Multiplayer  
 
 ## 🏅 Achievements
-- 🥈 **3-Star C Language Badge** on HackerRank  
-- ⭐ **4-Star C++ Badge** & **3-Star Python Badge**  
+- 🥈 **4-Star C++ Language Badge** on HackerRank  
+- ⭐ **3-Star C Badge** & **2-Star Python Badge**  
 - 🎓 **Completed Apna College C++ Language Course**  
 - 🧭 **NHSPC Finalist(2025)**  
 - 🌐 **Built multiple websites** including:  
