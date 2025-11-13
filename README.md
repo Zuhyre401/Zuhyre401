@@ -40,19 +40,13 @@
 ## 🏅 Achievements
 - 🥈 **3-Star C Language Badge** on HackerRank  
 - ⭐ **2-Star C++ Badge** & **1-Star Python Badge**  
-- 🎓 **Completed Apna College C Language Course**  
-- ⚡ **Founder of multiple tech startups:**  
-  - **AgroVerve** – AgriTech Startup (2026–2034 Plan)  
-  - **ZeXFour Software Labs** – Software R&D Company (Planning)  
-  - **HealMediBD & CyberSecurity AI** – Concept Stage  
-- 🧭 **NHSPC Finalist (Preparing for 2026)**  
+- 🎓 **Completed Apna College C++ Language Course**  
+- 🧭 **NHSPC Finalist(2025)**  
 - 🌐 **Built multiple websites** including:  
   - Self-defense blog with 50 techniques  
   - Expense management web app  
   - Startup landing pages  
 
 ---
-
-
 ✨ “Code. Create. Conquer.” ✨  
 </p>
