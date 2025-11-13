@@ -41,7 +41,7 @@
 - 🎓 **Completed Apna College C++ Language Course**  
 - 🧭 **NHSPC Finalist(2025)**  
 - 🌐 **Built multiple websites** including:  
-  - Self-defense blog with 50 techniques  
+  - Tic Tac Toe Game 
   - Expense management web app  
   - Startup landing pages  
 
