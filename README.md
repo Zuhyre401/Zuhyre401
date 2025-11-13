@@ -37,7 +37,7 @@
 
 ## 🏅 Achievements
 - 🥈 **3-Star C Language Badge** on HackerRank  
-- ⭐ **2-Star C++ Badge** & **1-Star Python Badge**  
+- ⭐ **4-Star C++ Badge** & **3-Star Python Badge**  
 - 🎓 **Completed Apna College C++ Language Course**  
 - 🧭 **NHSPC Finalist(2025)**  
 - 🌐 **Built multiple websites** including:  
