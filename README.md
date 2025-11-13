@@ -1,16 +1,58 @@
-## Hi there 👋
+<h1 align="center">👋 Hey, I'm Zuhyre Shehjad Kamal Chowdhury</h1>
 
-<!--
-**Zuhyre401/Zuhyre401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+💻 Class 7 Student | Programmer | Tech Enthusiast | Founder of AgroVerve  
+🚀 Passionate about Coding, Startups, and Future Technology  
+🌍 From Bangladesh | Exploring the world of C++, Python & AI  
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+- 🎯 **Goal:** To become a top-tier Software Engineer & Tech Entrepreneur  
+- 🏆 **Current Focus:** Mastering C++ & DSA for NHSPC 2026  
+- 🧩 **Passion:** Building modern, useful, and beautiful software projects  
+- 🌱 **Learning:** Data Structures, Algorithms, and AI Fundamentals  
+- ⚙️ **Dream Project:** Launching ZeXFour Tecnologies LTD. (2026–2034 Vision)
+
+---
+## 🛠️ Skills & Tools
+
+| Programming | Web Dev | Tools | Interests |
+|--------------|----------|-------|------------|
+| C | HTML | VS Code | Cybersecurity |
+| C++ | CSS | GitHub | Web Design |
+| Python | JavaScript | Git | Ethical Hacking |
+| SQL (Basic) | Bootstrap | Canva | AI Concepts |
+
+## 🧩 Featured Projects
+
+### 💰 Money Manager Website  
+> A full-featured expense tracker with stylish neon-dark UI, category pages, and monthly/yearly records.  
+**Tech Stack:** HTML, CSS, JavaScript  
+**Features:** Charts, data history, dark mode, login system, PDF reports
+
+### 🎮 Tic Tac Toe 367  
+> A modern Tic Tac Toe game with winning animations and clean page transitions.  
+**Tech Stack:** HTML, CSS, JS  
+**Modes:** Single Player & Multiplayer  
+
+## 🏅 Achievements
+- 🥈 **3-Star C Language Badge** on HackerRank  
+- ⭐ **2-Star C++ Badge** & **1-Star Python Badge**  
+- 🎓 **Completed Apna College C Language Course**  
+- ⚡ **Founder of multiple tech startups:**  
+  - **AgroVerve** – AgriTech Startup (2026–2034 Plan)  
+  - **ZeXFour Software Labs** – Software R&D Company (Planning)  
+  - **HealMediBD & CyberSecurity AI** – Concept Stage  
+- 🧭 **NHSPC Finalist (Preparing for 2026)**  
+- 🌐 **Built multiple websites** including:  
+  - Self-defense blog with 50 techniques  
+  - Expense management web app  
+  - Startup landing pages  
+
+---
+
+
+✨ “Code. Create. Conquer.” ✨  
+</p>
