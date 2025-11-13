@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey, I'm Zuhyre Shehjad Kamal Chowdhury</h1>
 
 <p align="center">
-💻 Class 7 Student | Programmer | Tech Enthusiast | Founder of AgroVerve  
+💻 Class 7 Student | Programmer | Tech Enthusiast  
 🚀 Passionate about Coding, Startups, and Future Technology  
 🌍 From Bangladesh | Exploring the world of C++, Python & AI  
 </p>
@@ -13,8 +13,6 @@
 - 🏆 **Current Focus:** Mastering C++ & DSA for NHSPC 2026  
 - 🧩 **Passion:** Building modern, useful, and beautiful software projects  
 - 🌱 **Learning:** Data Structures, Algorithms, and AI Fundamentals  
-- ⚙️ **Dream Project:** Launching ZeXFour Tecnologies LTD. (2026–2034 Vision)
-
 ---
 ## 🛠️ Skills & Tools
 
