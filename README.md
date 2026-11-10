@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey, I'm Zuhyre Shehjad Kamal Chowdhury</h1>
 
 <p align="center">
-💻 Class 7 Student | Programmer | Tech Enthusiast  
+💻 Class 8 Student | Programmer | Tech Enthusiast  
 🚀 Passionate about Coding, Startups, and Future Technology  
 🌍 From Bangladesh | Exploring the world of C++, Python & AI  
 </p>
